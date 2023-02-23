@@ -1,2 +1,10 @@
 # EL LENGUAJE DE PROGRAMACION C
-Códigos de algunos de los ejemplos y ejercicios del libro "EL LENGUAJE DE PROGRAMACION C"
+
+### Datos del libro
++ **Título:** *EL LENGUAJE DE PROGRAMACION C*.
++ **Autores:** *Brian W. Kernighan & Dennis M. Ritchie*.
++ **Edición:** *Primera edición*.
++ **Editorial:** *Prentice Hall*.
++ **Referecia:** *https://en.wikipedia.org/wiki/The_C_Programming_Language*
+
+### [Capitulo 1: Introducción general](/Capitulo-1/README.md#capitulo-1-introducción-general)

@@ -23,4 +23,5 @@
 
 ### 2.8 Operadores de incremento y decremento
 + [**Ejemplo: squeeze**](/Capitulo-2/deleteOccurs.c) Considera la función `squeeze(s, c)` que elimina todas las ocurrencias del carácter `c` de la cadena `s`.
-+ [**Ejemplo: strcat**](/Capitulo-2/stringConcat.c) La función `strcat(s, t)` que añade la cadena `t` al final de la cadena `s`
++ [**Ejemplo: strcat**](/Capitulo-2/stringConcat.c) La función `strcat(s, t)` que añade la cadena `t` al final de la cadena `s`.
++ [**Ejercicio 2-2: squeeze v2**](/Capitulo-2/deleteOccurs2.c) Escribe una versión alterna de `squeeze(s1, s2)` en la que se borre todo carácter de `s1` que exista en `s2`.

@@ -38,7 +38,8 @@
 + [**Ejercicio 1-16: Limpiar líneas**](/Capitulo-1/deleteBlanks.c) Escribe un programa para eliminar los blancos y los tabuladores del final de las líneas y los tabuladores de cada línea de entrada y para borrar completamente las líneas en blanco.
 + [**Ejercicio 1-17: Invertir líneas**](/Capitulo-1/reverseLines.c) Escribe una función `reverse(s)` que invierta la cadena de caracteres `s`. Utilízala para escribir un programa que invierta la entrada, línea a línea.
 
-### 1.10 Ambito (scope); variables externas *[PENDIENTE]*
+### 1.10 Ambito (scope); variables externas
++ [**Ejemplo: Línea más larga v3**](/Capitulo-1/maxLine3.c) Para concretar reescribamos el programa de la línea más larga, con `line`, `save` y `max` como variables externas. Para esto se requiere cambiar las llamadas, las declaraciones y los cuerpos de las tres funciones.
 
 ### 1.11 Resumen *[PENDIENTE]*
 

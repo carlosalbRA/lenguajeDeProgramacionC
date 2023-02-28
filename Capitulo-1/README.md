@@ -28,7 +28,8 @@
 ### 1.7 Funciones
 + [**Ejercicio 1-13: MAYUSCULAS a minúsculas**](/Capitulo-1/toLowercase.c) Escribe un programa que convierta su entrada a minúsculas utilizando la función `lower(c)`, que devuelve `c` si `c` no es una letra, o la letra minúscula correspondiente si `c` es una letra.
 
-### 1.8 Argumentos - llamadas por valor *[PENDIENTE]*
+### 1.8 Argumentos - llamadas por valor
++ [**Ejemplo: power v2**](/Capitulo-1/power.c) `power(x, n)` Eleva `x` a la `n-ésima` potencia; `n > 0`.
 
 ### 1.9 Arreglos de caracteres.
 + [**Ejemplo: Línea más larga**](/Capitulo-1/maxLine.c) Escribiremos un programa que lee un conjunto de líneas e imprime la de mayor longitud.
